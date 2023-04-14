@@ -1,0 +1,25 @@
+/* DIN-light */
+@font-face {
+    font-family: 'dinlight';
+    src: url(./din/din-light-webfont.woff2) format('woff2'),
+         url(./din/din-light-webfont.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* Open Sans */
+@font-face {
+	font-family: 'Open Sans';
+	src: url(./sans/OpenSans-Regular.woff2) format('woff2'), 
+         url(./sans/OpenSans-Regular.woff) format('woff');
+	font-weight: 1;
+	font-style: normal;
+}
+
+/* Google fonts pack */
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Open+Sans:wght@300;600&display=swap');
+/* font-family: 'Mulish', sans-serif; */
+
+
+
